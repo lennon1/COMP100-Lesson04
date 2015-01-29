@@ -10,6 +10,11 @@ namespace COMP100_Lesson04
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
+            Console.WriteLine();
+            Console.WriteLine("++++++++++++++++++++++++++++++++");
+            Console.WriteLine("Press any key to Exit...");
+            Console.ReadKey();
         }
     }
 }
